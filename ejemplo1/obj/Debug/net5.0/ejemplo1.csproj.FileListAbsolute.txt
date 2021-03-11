@@ -14,3 +14,19 @@ C:\Users\user-pc\OneDrive\Escritorio\POO0121\Ejemplo1\ejemplo1\obj\Debug\net5.0\
 C:\Users\user-pc\OneDrive\Escritorio\POO0121\Ejemplo1\ejemplo1\obj\Debug\net5.0\ref\ejemplo1.dll
 C:\Users\user-pc\OneDrive\Escritorio\POO0121\Ejemplo1\ejemplo1\obj\Debug\net5.0\ejemplo1.pdb
 C:\Users\user-pc\OneDrive\Escritorio\POO0121\Ejemplo1\ejemplo1\obj\Debug\net5.0\ejemplo1.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\bin\Debug\net5.0\ejemplo1.exe
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\bin\Debug\net5.0\ejemplo1.deps.json
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\bin\Debug\net5.0\ejemplo1.runtimeconfig.json
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\bin\Debug\net5.0\ejemplo1.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\bin\Debug\net5.0\ejemplo1.dll
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\bin\Debug\net5.0\ref\ejemplo1.dll
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\bin\Debug\net5.0\ejemplo1.pdb
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\obj\Debug\net5.0\ejemplo1.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\obj\Debug\net5.0\ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\obj\Debug\net5.0\ejemplo1.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\obj\Debug\net5.0\ejemplo1.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\obj\Debug\net5.0\ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\obj\Debug\net5.0\ejemplo1.dll
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\obj\Debug\net5.0\ref\ejemplo1.dll
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\obj\Debug\net5.0\ejemplo1.pdb
+C:\Users\danie\OneDrive\Documents\Universidad\POO\Wisin y Yandel01\IntroGitHub\Wisin_y_YandelPO012021\ejemplo1\obj\Debug\net5.0\ejemplo1.genruntimeconfig.cache
