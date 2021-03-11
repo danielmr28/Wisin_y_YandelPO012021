@@ -8,14 +8,21 @@ namespace ejemplo1
         {
             int a=0;
             int b=0;
-            int sum =0;
-            Console.WriteLine("Ingrese un número");
-            a=int.Parse(Console.ReadLine());
-            Console.WriteLine("Ingrese otro número");
-            b=int.Parse(Console.ReadLine());
-            sum = a + b ;
-            Console.WriteLine("La suma es "+ $"{sum}");
+           
+            Console.WriteLine("Enter value for a: ");
+            a = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter valuo for b: ");
+            b = Int32.Parse(Console.ReadLine());
+            
+            Console.WriteLine($"Adding {a} + {b} equals = {AddNumbers(a , b)} ");
         
+        }
+
+        public static int AddNumbers(int a, int b)
+        {
+            return a + b;
+
         }
     }
 }
