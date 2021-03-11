@@ -11,9 +11,18 @@ namespace ejemplo1
            
             Console.WriteLine("Enter value for a: ");
             a = Int32.Parse(Console.ReadLine());
-
-            Console.WriteLine("Enter valuo for b: ");
+            while (a<0)
+            {
+            Console.WriteLine("Enter value for a: ");
+            a = Int32.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Enter value for b: ");
             b = Int32.Parse(Console.ReadLine());
+            while (b<0)
+            {
+            Console.WriteLine("Enter value for b: ");
+            b = Int32.Parse(Console.ReadLine());
+            }
             
             Console.WriteLine($"The solution of {a} - {b} equals = {AddNumbers(a , b)} ");
         
