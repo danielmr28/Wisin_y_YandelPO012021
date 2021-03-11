@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\danie\\.nuget\\packages\\": {}
+    "C:\\Users\\user-pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\danie\\OneDrive\\Documents\\Universidad\\POO\\Wisin y Yandel01\\IntroGitHub\\Wisin_y_YandelPO012021\\ejemplo1\\ejemplo1.csproj",
+      "projectUniqueName": "C:\\Users\\user-pc\\OneDrive\\Documentos\\POO012211\\Wisin_y_YandelPO012021\\ejemplo1\\ejemplo1.csproj",
       "projectName": "ejemplo1",
-      "projectPath": "C:\\Users\\danie\\OneDrive\\Documents\\Universidad\\POO\\Wisin y Yandel01\\IntroGitHub\\Wisin_y_YandelPO012021\\ejemplo1\\ejemplo1.csproj",
-      "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\danie\\OneDrive\\Documents\\Universidad\\POO\\Wisin y Yandel01\\IntroGitHub\\Wisin_y_YandelPO012021\\ejemplo1\\obj\\",
+      "projectPath": "C:\\Users\\user-pc\\OneDrive\\Documentos\\POO012211\\Wisin_y_YandelPO012021\\ejemplo1\\ejemplo1.csproj",
+      "packagesPath": "C:\\Users\\user-pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user-pc\\OneDrive\\Documentos\\POO012211\\Wisin_y_YandelPO012021\\ejemplo1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\user-pc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
